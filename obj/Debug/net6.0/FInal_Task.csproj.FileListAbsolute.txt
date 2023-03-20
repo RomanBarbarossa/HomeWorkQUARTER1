@@ -1,0 +1,15 @@
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/bin/Debug/net6.0/FInal_Task
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/bin/Debug/net6.0/FInal_Task.deps.json
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/bin/Debug/net6.0/FInal_Task.runtimeconfig.json
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/bin/Debug/net6.0/FInal_Task.dll
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/bin/Debug/net6.0/FInal_Task.pdb
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/obj/Debug/net6.0/FInal_Task.csproj.AssemblyReference.cache
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/obj/Debug/net6.0/FInal_Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/obj/Debug/net6.0/FInal_Task.AssemblyInfoInputs.cache
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/obj/Debug/net6.0/FInal_Task.AssemblyInfo.cs
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/obj/Debug/net6.0/FInal_Task.csproj.CoreCompileInputs.cache
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/obj/Debug/net6.0/FInal_Task.dll
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/obj/Debug/net6.0/refint/FInal_Task.dll
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/obj/Debug/net6.0/FInal_Task.pdb
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/obj/Debug/net6.0/FInal_Task.genruntimeconfig.cache
+/Users/roman.barbarossa/Documents/FinalHomeWork/FInal_Task/obj/Debug/net6.0/ref/FInal_Task.dll
